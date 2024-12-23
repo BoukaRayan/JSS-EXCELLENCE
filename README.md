@@ -1,14 +1,8 @@
 ## Overview
 
-Welcome to the repository of our Integrated Management System for the Sports Club JSS EXCELLENCE Saoula, developed as part of a multidisciplinary project in the second year of preparatory classes (2CP) at the Higher National School of Computer Science. This project aims to streamline and automate the various administrative, tracking, and communication tasks involved in managing a sports club.
+This repository contains the Integrated Management System for the Sports Club JSS EXCELLENCE Saoula, a project developed as part of a multidisciplinary course in the second year of preparatory classes (2CP) at the Higher National School of Computer Science.
 
-![Dashboard](githubutils/dashboard.png)
 ![Member](githubutils/member.png)
-![Timeslots](githubutils/timeslots.png)
-
-## Final Product
-
-Here is the link for the final product: [Link](https://drive.google.com/file/d/1hBCuPEtvsee5epnBB1vp5Ps0k2yUcRKe/view?usp=sharing)
 
 ## Features
 
@@ -33,10 +27,7 @@ Here is the link for the final product: [Link](https://drive.google.com/file/d/1
 
 Electron, Express, React, HTML, CSS and MySQL.
 
-## Contributing
+## Contributions
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code follows the project's coding standards and includes appropriate tests.
+This repository represents my contributions to the project. The project was a collaborative effort with SOUALAH MOHAMMED ZAKARIA.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
