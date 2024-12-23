@@ -31,3 +31,8 @@ Electron, Express, React, HTML, CSS and MySQL.
 
 This repository represents my contributions to the project. The project was a collaborative effort with SOUALAH MOHAMMED ZAKARIA.
 
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
